@@ -1,7 +1,7 @@
 # 💫 About Me
-I'm a final-year Computer Science undergraduate at BITS Pilani who builds software end to end: backend services, full-stack applications, data pipelines, and AI systems. I work with FastAPI, Node.js, PostgreSQL, and React to build REST APIs and web apps with authentication, CI/CD, and automated tests, and I build data and ML pipelines ranging from 100K-record ranking systems to RAG applications with measured evaluation.
+Final-year Computer Science undergraduate at BITS Pilani focused on software engineering with machine learning and applied AI. Experienced in developing backend services, full-stack applications, data pipelines, and AI-powered systems, with an emphasis on scalable architecture, performance, and reliability.
 
-I'm also a co-author of a Springer Nature publication on deep learning for structural damage detection. Across everything I build, I care about clean architecture, reliable systems, and results I can measure.
+Published researcher in deep learning, with experience in model development, experimental evaluation, and translating technical ideas into practical solutions. Passionate about building maintainable software and applying engineering principles to solve complex problems.
 
 ## 🌐 Socials
 
